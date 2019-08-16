@@ -2,7 +2,7 @@ package datastructure.stackimplementation;
 
 public class LinkedListToStack implements MyStack {
 
-    private LinkedListNode head;
+    public LinkedListNode head;
 
     public LinkedListToStack() {
         head = null;

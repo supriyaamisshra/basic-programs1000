@@ -1,0 +1,6 @@
+
+`squid:S2259"BA "NullPointerException" could be thrown; "head" is nullable here.(—Ï´Ö8Ôó¾ìÃ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ğùùÿÿÿÿ8İÈ¿ìÃ-
+Š"squid:ClassVariableVisibilityCheck"PMake head a static final constant or non-public and provide accessors if needed.(øñ”¶ùÿÿÿÿ8–ĞöóÃ-
+Ssquid:S2209"5Change this instance-reference to a static reference.(—Ï´Ö8–ĞöóÃ-

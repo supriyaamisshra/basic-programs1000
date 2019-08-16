@@ -1,0 +1,9 @@
+
+Lsquid:S18548"6Remove this useless assignment to local variable "bi".(±˜ÝN
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿·Ó·ûÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(óÄ™»
+O
+squid:S106<"9Replace this use of System.out or System.err by a logger.(Þ¶×†
+=squid:S14818"'Remove this unused "bi" local variable.(±˜ÝN
+gsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈÝà

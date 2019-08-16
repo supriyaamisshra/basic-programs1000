@@ -1,9 +1,9 @@
-package datastructure.graph.representation;
+package datastructure.graph.declaration;
 
 public class GraphAdjacencyMatrix {
 
-    private  static boolean adjMatrix[][];
-    private  static int vertexCount;
+    private  boolean adjMatrix[][];
+    private  int vertexCount;
 
 
     public GraphAdjacencyMatrix(boolean[][] adjMatrix, int vertexCount) {
@@ -11,7 +11,7 @@ public class GraphAdjacencyMatrix {
         this.vertexCount = vertexCount;
     }
 
-    private static void addEdge(int i, int j) {
+    private void addEdge(int i, int j) {
 
         if (i >= 0 && i < vertexCount && j > 0 && j < vertexCount) {
             adjMatrix[i][j] = true;
@@ -19,24 +19,20 @@ public class GraphAdjacencyMatrix {
         }
     }
 
-    private static void removeEdge(int i, int j) {
+    private void removeEdge(int i, int j) {
 
         if (i >= 0 && i < vertexCount && j > 0 && j < vertexCount) {
             adjMatrix[i][j] = false;
             adjMatrix[j][i] = false;
         }
     }
-    private static boolean isEdge(int i, int j) {
+    private boolean isEdge(int i, int j) {
 
         if (i >= 0 && i < vertexCount && j > 0 && j < vertexCount) {
             return adjMatrix[i][j];
         } else {
             return false;
         }
-    }
-
-    public static void main(String[] args) {
-        
     }
 
 }

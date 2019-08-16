@@ -1,0 +1,7 @@
+
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(åØ‚8äÃºÆ-
+ksquid:S00116	"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ€ü¬8ˆŸú¹Æ-
+Usquid:S1197"8Move the array designator from the variable to the type.(ÿ°â	8Ç¨ä¸Æ-
+msquid:S001000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÇåİ8äÃºÆ-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜­Ä8äÃºÆ-

@@ -1,0 +1,8 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(è®ôì
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Õ©±™
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª·
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û Öã
+^squid:S00112	"FDefine and throw a dedicated exception instead of using a generic one.(›Ñ÷

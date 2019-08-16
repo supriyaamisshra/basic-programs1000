@@ -1,0 +1,5 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç‘›·þÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck"PMake root a static final constant or non-public and provide accessors if needed.(è“þ÷
+Asquid:S1444"*Make this "public static root" field final(è“þ÷

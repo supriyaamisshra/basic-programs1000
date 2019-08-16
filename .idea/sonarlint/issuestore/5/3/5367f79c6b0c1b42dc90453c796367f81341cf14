@@ -1,0 +1,8 @@
+
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ8Î¼­šÄ-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ŞÑ¯”øÿÿÿÿ8€®šÄ-
+Msquid:S1481"/Remove this unused "startIndex" local variable.(İÕ¤Ö8Î†à™Ä-
+Vsquid:S1197("8Move the array designator from the variable to the type.(¨‚Á×8‰ì£šÄ-
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8˜Û…šÄ-
