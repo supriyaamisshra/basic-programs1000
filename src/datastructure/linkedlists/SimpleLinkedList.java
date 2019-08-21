@@ -35,22 +35,19 @@ public class SimpleLinkedList<T> implements SimpleList<T> {
         // Instantiating an anonymous class conforming to type Iterator
         return new Iterator<>() {
 
-            Node<T> head; // Initialization
+            private Node<T> next = head; // Initialization, class variable
+
             @Override
             public boolean hasNext() {
                 //condition check
-                Node<T> temp = head;
-                if (temp != null) {
-                    return temp.next != null;
-                }
-                return false;
+                return next != null;
             }
             @Override
             public T next() {
                 //update
-                Node<T> temp = head;
-                head = head.next;
-                return head.value;
+                final Node<T> temp = next;
+                next = next.next;
+                return temp.value;
             }
         };
     }
