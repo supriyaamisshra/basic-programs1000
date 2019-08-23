@@ -31,6 +31,7 @@ public class BruteForceGP {
         // Declared result List type which will be having String array of n*2 capacity.
         List<String> combinations = new ArrayList<>(n*2);
         generateAll(new char[2*n], 0, combinations);
+        System.out.println("Possible balanced combinations of parenthesis are  for " + n);
         for (String s: combinations) {
             System.out.println(s);
         }
@@ -54,6 +55,7 @@ public class BruteForceGP {
         }
 
     }
+    // if all left parenthesis is paired then not a valid generation.
 
     private static boolean valid(char[] current) {
         int balance = 0;
@@ -71,9 +73,9 @@ public class BruteForceGP {
     }
 
     public static void main(String[] args) {
-        int n = 3;
 
         generateParanthesis(3);
+        generateParanthesis( 5);
     }
 
 
