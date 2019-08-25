@@ -41,7 +41,7 @@ public class MaxDepthOfBT {
         }
         int leftD = maxDepth(root.left);
         int rightD = maxDepth(root.right);
-        return Math.max(leftD, rightD);
+        return  1+ Math.max(leftD, rightD);
 
     }
 }
