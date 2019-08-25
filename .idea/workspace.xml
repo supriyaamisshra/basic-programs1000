@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe9ccb3b-fd21-4bfd-8a92-5579a3c616ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mustdoprograms/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mustdoprograms/MaxDepthOfBT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic1000/mustdoprograms/generateparanthesis/BackTrackingGP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic1000/mustdoprograms/generateparanthesis/BackTrackingGP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic1000/mustdoprograms/generateparanthesis/ClosureNumberGP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic1000/mustdoprograms/generateparanthesis/ClosureNumberGP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic1000/recursion/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic1000/recursion/ReverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mustdoprograms/generateparanthesis/BackTrackingGP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mustdoprograms/generateparanthesis/BackTrackingGP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mustdoprograms/generateparanthesis/ClosureNumberGP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mustdoprograms/generateparanthesis/ClosureNumberGP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/ReverseString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,11 +95,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mustdoprograms/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="32" column="57" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
+            <state relative-caret-position="465">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mustdoprograms/MaxDepthOfBT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -115,21 +118,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="151">
               <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/TreeMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="1238" column="47" lean-forward="true" selection-start-line="1238" selection-start-column="47" selection-end-line="1238" selection-end-column="47" />
-              <folding>
-                <element signature="e#38609#38610#0" expanded="true" />
-                <element signature="e#38674#38675#0" expanded="true" />
-                <element signature="e#44998#44999#0" expanded="true" />
-                <element signature="e#45034#45035#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -155,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/verybasicprograms/recursion/CheckPalindrome.java" />
         <option value="$PROJECT_DIR$/src/verybasicprograms/recursion/ComputeTowerHanoi.java" />
         <option value="$PROJECT_DIR$/src/algorithms/LinearSearch.java" />
         <option value="$PROJECT_DIR$/src/algorithms/search/LinearSearch.java" />
@@ -206,6 +193,7 @@
         <option value="$PROJECT_DIR$/src/mustdoprograms/generateparanthesis/ClosureNumberGP.java" />
         <option value="$PROJECT_DIR$/src/recursion/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/mustdoprograms/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/mustdoprograms/MaxDepthOfBT.java" />
       </list>
     </option>
   </component>
@@ -284,7 +272,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566730344503" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566734586381" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -435,12 +423,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36385542" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36385542" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39638555" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -572,16 +560,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/recursion/ComputeTowerHanoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructure/binarytree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -983,8 +961,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mustdoprograms/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="32" column="57" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mustdoprograms/MaxDepthOfBT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
         </state>
       </provider>
     </entry>
