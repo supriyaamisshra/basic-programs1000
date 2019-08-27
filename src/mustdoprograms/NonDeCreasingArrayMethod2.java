@@ -16,12 +16,17 @@ import java.io.InputStreamReader;
  */
 public class NonDeCreasingArrayMethod2 {
 
-    public boolean checkPossibility(int[] nums) {
+
+    public boolean checkPossibilityByAnotherMethod(int[] nums) {
         int p = -1;
         for (int i = 1; i < nums.length; i++) {
             if (nums[i-1] > nums[i]) {
-                if (p != -1) return false;
-                else p = i;
+                if (p != -1)  {
+                    return false;
+                }
+                else {
+                    p = i;
+                }
             }
         }
         return (p == -1 ||   // no reversed pair
@@ -57,11 +62,11 @@ class MainClass {
         while ((line = in.readLine()) != null) {
             int[] nums = stringToIntegerArray(line);
 
-            boolean ret = new NonDeCreasingArrayMethod2().checkPossibility(nums);
+            boolean ret2 = new NonDeCreasingArrayMethod2().checkPossibilityByAnotherMethod(nums);
 
-            String out = booleanToString(ret);
+            String out2 = booleanToString(ret2);
 
-            System.out.print(out);
+            System.out.println(out2);
         }
     }
 }
