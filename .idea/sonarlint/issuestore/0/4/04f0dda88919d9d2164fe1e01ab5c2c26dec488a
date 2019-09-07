@@ -1,0 +1,15 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(óÉÆœşÿÿÿÿ8–å¤Ë-
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¹¹ååùÿÿÿÿ8š—˜¥Ë-
+U
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÿ—)8ìÈÓ¤Ë-
+}squid:UselessImportCheck"MRemove this unused import 'java.security.InvalidAlgorithmParameterException'.( ¾·şÿÿÿÿ8¥Ïè¥Ë-
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¹¹ååùÿÿÿÿ8š—˜¥Ë-
+Fsquid:S1659<"#Declare "right" on a separate line.(¨İø¹úÿÿÿÿ8ÅÅ‡¥Ë-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(óÉÆœşÿÿÿÿ8–å¤Ë-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ—)8ìÈÓ¤Ë-

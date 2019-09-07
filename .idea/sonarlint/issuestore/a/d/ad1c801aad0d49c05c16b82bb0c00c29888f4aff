@@ -1,0 +1,4 @@
+
+zsquid:UselessImportCheck"ORemove this unused import 'javax.swing.plaf.basic.BasicInternalFrameTitlePane'.(‹£¬¥8„ÿ¡ÅÌ-
+fsquid:UselessImportCheck"6Remove this unused import 'javax.swing.tree.TreeNode'.(š­©Òûÿÿÿÿ8÷õ›ÅÌ-
+]squid:S1118$":Add a private constructor to hide the implicit public one.(ÑÐ“Þþÿÿÿÿ8ûŸ«ÅÌ-
