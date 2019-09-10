@@ -12,7 +12,8 @@ package javabasedprograms;
  * World
  * Do not use method overloading because your answer will not be accepted.
  */
-public class Generics {
+public class Generics
+{
 
 
     private static void printArray(Object[] input) {
