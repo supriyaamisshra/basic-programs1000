@@ -32,6 +32,7 @@ public class ForEachIterableInterface {
                 System.out.println("forEach anonymous class Value:: " + t);
             }
         });
+        //lambda version of same for above lines
         list.forEach(t -> System.out.println(" for Each using lambda:: " + t));
 
         MyConsumer action = new MyConsumer();
