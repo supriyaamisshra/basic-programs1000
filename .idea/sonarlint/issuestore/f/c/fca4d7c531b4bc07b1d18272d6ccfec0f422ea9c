@@ -1,0 +1,6 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úâ´8€ıÊİÑ-
+zsquid:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(Æª¡„8–˜ÈİÑ-
+Xsquid:S1854"5Remove this useless assignment to local variable "n".(ÍÛøÈúÿÿÿÿ8€ıÊİÑ-
+Isquid:S1481"&Remove this unused "n" local variable.(ÍÛøÈúÿÿÿÿ8€ıÊİÑ-
