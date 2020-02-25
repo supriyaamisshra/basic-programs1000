@@ -1,6 +1,6 @@
 
 `squid:UnusedPrivateMethod"/Remove this unused private "removeEdge" method.(Ù®éÇøÿÿÿÿ8Éı‰Æ-
-Nsquid:S1172	"0Remove this unused method parameter "adjMatrix".(ÏïĞğ8•ÁşÆ-
-Wsquid:UnusedPrivateMethod"+Remove this unused private "isEdge" method.(‰¦ƒ¯8úƒÆ-
 [squid:S1197"8Move the array designator from the variable to the type.(§ê‡ûÿÿÿÿ8ç¦üÆ-
 ]squid:UnusedPrivateMethod",Remove this unused private "addEdge" method.(¦Åå’úÿÿÿÿ8¸‡Æ-
+Wsquid:UnusedPrivateMethod"+Remove this unused private "isEdge" method.(‰¦ƒ¯8úƒÆ-
+Nsquid:S1172	"0Remove this unused method parameter "adjMatrix".(ÏïĞğ8•ÁşÆ-

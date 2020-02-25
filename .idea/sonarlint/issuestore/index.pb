@@ -211,3 +211,7 @@ Z
 *src/customImplementation/DPdivideConq.java,c/3/c37db23f4b43901bfabe004353e7e9797701f38c
 _
 /src/algorithms/dynamicprogramming/KnapSack.java,b/6/b608144633cf5eaf618ba70b424348927a029dd3
+V
+&src/datastructure/CustomArrayList.java,e/8/e8d85df400d1b65954d67d8c759cbbe82664589f
+T
+$src/datastructure/HashMapCustom.java,7/4/74b158bceb2ffe944060fd84c07e2e6db171ae53
